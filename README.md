@@ -1,8 +1,6 @@
 # UwO_NPC_Control_Mod_Release
 ![Image](https://github.com/user-attachments/assets/08d45935-cc40-4e98-8c3d-10340d686933)
 
-**It is assumed that you have BepInEx 5.4.22 installed to use this.**
-
 **This plugin can only be used in singleplayer!**
 
 ## Features
