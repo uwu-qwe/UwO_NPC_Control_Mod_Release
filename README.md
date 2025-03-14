@@ -17,7 +17,7 @@ The menu window can be dragged around the screen to be somewhere else. The windo
 
 ## Installation if BepInEx IS installed
 1. Ensure you have the Dlltouse folder in your KoboldKare game folder (can be found in `Bepin NPC Control.7z`).
-2. Put the `UwO_NPC_Control_Mod.dll` in the plugins folder (Should be in `KoboldKare\BepInEx\plugins`).
+2. Put the `UwO_NPC_Control_Mod.dll` (from [Releases](https://github.com/uwu-qwe/UwO_NPC_Control_Mod_Release/releases)) in the plugins folder (Should be in `KoboldKare\BepInEx\plugins`).
 3. Run the game and it should work!
 
 ## How to use
