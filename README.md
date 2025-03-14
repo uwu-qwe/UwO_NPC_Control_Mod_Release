@@ -28,6 +28,9 @@ When you've selected an animation type for either hips or head, you can then sta
 You **must** reset the NPC animation if you want to make changes to it. So you first start, see if there's anything you'd like to change, and then you can reset and do your adjustments.
 Rinse and repeat. You can deselect and NPC if you don't want to do any changes to them and they'll be kept in that state indefinitely until you select them again and start doing changes.
 
+The menu will hightlight slider/options with yellow text when they're relevant for the selected animation type.
+Only these highlighted ones will affect the current animation selected.
+
 ## Configuration & Default Shortcuts
 Selecting an NPC: `RightControl + I`  
 Deselecting an NPC: `RightControl + O`  
